@@ -652,15 +652,15 @@ section.hero-text {
 /* page headline
 ==================================== */
 
-<<<<<<< HEAD
-#inner-headline {
+/* <<<<<<< HEAD */
+/* #inner-headline {
 	background: #FF9F16;
 	position: relative;
 	margin: 0;
 	padding: 0;
 	color: #fefefe;
-	border-top: 10px solid #FED8A1;
-=======
+	border-top: 10px solid #FED8A1; */
+/* ======= */
 #inner-headline{
 	background: #8cc63f;
 	position:relative;
@@ -668,7 +668,6 @@ section.hero-text {
 	padding:0;
 	color:#fefefe;
 	border-top: 10px solid #cfff91;
->>>>>>> a4f4aa9a7ce6954ef9af2a3d0e066c920dff5dc2
 	text-align: center;
 }
 
