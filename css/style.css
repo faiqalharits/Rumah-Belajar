@@ -652,6 +652,7 @@ section.hero-text {
 /* page headline
 ==================================== */
 
+<<<<<<< HEAD
 #inner-headline {
 	background: #FF9F16;
 	position: relative;
@@ -659,6 +660,15 @@ section.hero-text {
 	padding: 0;
 	color: #fefefe;
 	border-top: 10px solid #FED8A1;
+=======
+#inner-headline{
+	background: #8cc63f;
+	position:relative;
+	margin:0;
+	padding:0;
+	color:#fefefe;
+	border-top: 10px solid #cfff91;
+>>>>>>> a4f4aa9a7ce6954ef9af2a3d0e066c920dff5dc2
 	text-align: center;
 }
 
@@ -1688,8 +1698,8 @@ article .align-right {
 }
 
 .work .overlay {
-	background: rgba(222, 59, 105, 0.8);
-	height: 100%;
+	background: rgba(139, 198, 63, 0.729);
+	height: 94%;
 	left: 0;
 	opacity: 0;
 	position: absolute;
