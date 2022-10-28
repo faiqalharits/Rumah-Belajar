@@ -4,10 +4,10 @@
 }
 
 #inner-headline h2{
-    color: #fff;
+    text-align: center;
 }
 
-.row{
+footer .row{
     text-align: left;
 }
 
