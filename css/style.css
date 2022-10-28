@@ -659,14 +659,20 @@ section.hero-text {
 	margin: 0;
 	padding: 0;
 	color: #fefefe;
+<<<<<<< HEAD
 	border-top: 10px solid #FED8A1;
 ======= */
 #inner-headline{
+=======
+	border-top: 10px solid #FED8A1; */
+/* ======= */
+#inner-headline {
+>>>>>>> 4f17f57b8aeb90f6ed12e692a105875cc46880f6
 	background: #8cc63f;
-	position:relative;
-	margin:0;
-	padding:0;
-	color:#fefefe;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	color: #fefefe;
 	border-top: 10px solid #cfff91;
 	text-align: center;
 }
@@ -1098,7 +1104,7 @@ blockquote cite a:visited {
 /* --- button --- */
 .btn {
 	text-align: center;
-	background: #DE3B69;
+	background: #8cc63f;
 	color: #fff;
 	border-radius: 0;
 	padding: 10px 30px;
