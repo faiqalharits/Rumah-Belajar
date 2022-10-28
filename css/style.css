@@ -652,15 +652,15 @@ section.hero-text {
 /* page headline
 ==================================== */
 
-/* <<<<<<< HEAD */
-/* #inner-headline {
+/* <<<<<<< HEAD
+#inner-headline {
 	background: #FF9F16;
 	position: relative;
 	margin: 0;
 	padding: 0;
 	color: #fefefe;
-	border-top: 10px solid #FED8A1; */
-/* ======= */
+	border-top: 10px solid #FED8A1;
+======= */
 #inner-headline{
 	background: #8cc63f;
 	position:relative;
@@ -820,8 +820,6 @@ form#commentform textarea {
 	font-size: 16px;
 	display: block;
 }
-
-.work-nav #filters li a:hover {}
 
 .work-nav #filters li a.selected {
 	color: #DE5E60;
