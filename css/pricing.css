@@ -7,9 +7,8 @@
     color: #fff;
 }
 
-#content .container{
-    display: flex;
-    justify-content: center;
+.row{
+    text-align: left;
 }
 
 ._pricing{
@@ -20,7 +19,7 @@
     background: #fff;
 }
 
-.col-lg-3{
+.col-lg-4{
     width: 80vw;
 }
 
