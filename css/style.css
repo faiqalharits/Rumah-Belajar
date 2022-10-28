@@ -147,9 +147,9 @@ header .navbar {
 	padding: 0;
 }
 
-header .navbar-nav>li {
-	/* padding-bottom: 12px; */
-	/* padding-top: 12px; */
+header .navbar-nav li {
+	padding-bottom: 12px;
+	padding-top: 12px;
 }
 
 header .navbar-nav>li>a {
@@ -279,8 +279,8 @@ header ul.nav li ul li a {
 }
 
 .navbar .nav a:hover {
-	background: none;
-	color: rgb(247, 147, 30) !important;
+	background:none;
+	color: rgb(41, 171, 226) !important;
 }
 
 .navbar .nav>.active>a,
@@ -1364,7 +1364,7 @@ ul.team-detail li ul.social-network li i {
 	color: #fff;
 }
 
-.pricing-box-item.activeItem .pricing-heading h3 {}
+/* .pricing-box-item.activeItem .pricing-heading h3 {} */
 
 .pricing-box-item .pricing-heading h3 strong {
 	font-size: 20px;
